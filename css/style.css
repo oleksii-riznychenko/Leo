@@ -990,6 +990,7 @@ body.ie .ibg img {
 	font-size: 27px;
 	font-weight: 400;
 	font-size: 23px;
+	z-index: 1;
 }
 @media (max-width: 767.98px) {
 	.block-tabs__item.active .block-nav__col {
