@@ -995,22 +995,26 @@ body.ie .ibg img {
 @media (max-width: 767.98px) {
 	.block-tabs__item.active .block-nav__col {
 		font-size: 17px;
+		z-index: 1;
 	}
 }
 @media (max-width: 540px) {
 	.block-tabs__item.active .block-nav__col {
 		font-size: 14px;
+		z-index: 1;
 	}
 }
 @media (max-width: 420px) {
 	.block-tabs__item.active .block-nav__col {
 		font-size: 11px;
+		z-index: 1;
 	}
 }
 @media (max-width: 349px) {
 	.block-tabs__item.active .block-nav__col {
 		font-size: 11px;
 		line-height: normal;
+		z-index: 1;
 	}
 }
 .block-tabs__item.active .white {
